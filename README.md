@@ -1,6 +1,6 @@
 # Map Animation
 
-A simple project that animates a marker along a predefined route using Mapbox GL JS.
+A project that animates a marker along a predefined route using Mapbox GL JS.
 
 ## Description
 
